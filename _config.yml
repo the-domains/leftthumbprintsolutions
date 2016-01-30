@@ -1,0 +1,28 @@
+name: LeftThumbprintSolutions
+favicon: null
+layout_spectrum: 0.9820319006685168
+typography_spectrum: 0.7435622431803495
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.36014640727080405
+  lightness: 0.007902307203039527
+  saturation: 0.2523535010404885
+  rhythmicContrast: 0.1910816072486341
+purpose: []

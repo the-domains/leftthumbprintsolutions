@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[LeftThumbprintSolutions]]></title>
         <description><![CDATA[LeftThumbprintSolutions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/leftthumbprintsolutions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 23:02:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 23:08:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/leftthumbprintsolutions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Exploring Cavana Faithwalker]]></title>
+            <description><![CDATA[<article><h1>Exploring Cavana Faithwalker</h1><p>See Cavana at LinkedIn</p></article>]]></description>
+            <link>https://thegrid.ai/leftthumbprintsolutions/exploring-cavana-faithwalker/index.html</link>
+            <guid isPermaLink="false">3176a9d8-3074-41de-8c8f-d013896599b8</guid>
+            <pubDate>Sat, 30 Jan 2016 23:08:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://the-grid-user-content.s3-us-west-2.amazonaws.com/95c34bce-665b-4d0d-8c24-01d611306129.png">]]></description>
-            <link>undefinedec9b16e2-7c99-46c7-8d6d-44cf5375a949/index.html</link>
+            <link>https://thegrid.ai/leftthumbprintsolutions/ec9b16e2-7c99-46c7-8d6d-44cf5375a949/index.html</link>
             <guid isPermaLink="false">ec9b16e2-7c99-46c7-8d6d-44cf5375a949</guid>
             <pubDate>Sat, 30 Jan 2016 23:02:01 GMT</pubDate>
         </item>

@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-19T03:51:27.067Z'
-dateModified: '2016-02-19T03:51:16.016Z'
+datePublished: '2016-02-19T04:39:17.172Z'
+dateModified: '2016-02-19T04:39:10.540Z'
 title: Exploring Cavana Faithwalker
 author: []
 sourcePath: _posts/2016-01-30-exploring-cavana-faithwalker.md
@@ -26,7 +26,7 @@ _type: Article
 
 # Exploring Cavana Faithwalker
 
-See Cavana at [LinkedIn][0]
+See  [LinkedIn][0] Cavana
 
 See Cavana at 
 

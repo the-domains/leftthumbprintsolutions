@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-19T04:39:17.172Z'
-dateModified: '2016-02-19T04:39:10.540Z'
+datePublished: '2016-02-19T05:47:50.342Z'
+dateModified: '2016-02-19T05:45:24.979Z'
 title: Exploring Cavana Faithwalker
 author: []
 sourcePath: _posts/2016-01-30-exploring-cavana-faithwalker.md
@@ -26,8 +26,21 @@ _type: Article
 
 # Exploring Cavana Faithwalker
 
-See  [LinkedIn][0] Cavana
+[LinkedIn][0] Cavana
 
-See Cavana at 
+Cavana + Poetry
+
+* Poet [Laureate][1] \* His Heights [Pop Up Poetry][2] \* [Poetry Piece in the Patch][3]
+
+* Cavana's [Poetry Party][4] was... ah Slammin'!- Heights Observer
+
+* Cavana and Friends 17 years of [the Nia Coffeehouse][5]
+
+Cavana @ I-Open The Institute for Open Economic Networks
 
 [0]: https://www.linkedin.com/in/leftthumbprintsolutions
+[1]: http://www.heightsarts.org/portfolio-item/cavana/
+[2]: http://www.freshwatercleveland.com/forgood/popuppoetry072912.aspx
+[3]: http://patch.com/ohio/clevelandheights/beloved-heights-resident-is-the-new-poet-laureate
+[4]: http://www.heightsobserver.org/read/2012/04/17/poet-laureate-invitational-wraps-up-poetry-month-at-heights-arts
+[5]: https://thegrid.ai/leftthumbprintsolutions/06e1587c-fb6a-41e5-aa94-1ac0c241776b/
